@@ -1,44 +1,44 @@
 {
   "APTQSK": [
-        {
-            "APTQSK": "Owner/host",
-            "PLace": "Host is not playing"
-        }
-    ],
+    {
+      "APTQSK": "Owner/host",
+      "PLace": "Host is not playing"
+    }
+  ],
   "Y2OOB2": [
-        {
-            "Y2OOB2": "Dev/player",
-            "PLace": "-"
-        }
-    ],
+    {
+      "Y2OOB2": "Dev/player",
+      "PLace": "-"
+    }
+  ],
   "ES35DX": [
-        {
-            "ES35DX": "Admin/host",
-            "PLace": "Host is not playing"
-        }
-    ],
+    {
+      "ES35DX": "Admin/host",
+      "PLace": "Host is not playing"
+    }
+  ],
   "KF128O": [
-        {
-            "KF128O": "host",
-            "PLace": "Host is not playing"
-        }
-    ],
+    {
+      "KF128O": "host",
+      "PLace": "Host is not playing"
+    }
+  ],
   "TY1ELD": [
-        {
-            "TY1ELD": "streamer",
-            "PLace": "-"
-        }
-    ],
+    {
+      "TY1ELD": "streamer",
+      "PLace": "-"
+    }
+  ],
   "7V35O4": [
-        {
-            "7V35O4": "streamer",
-            "PLace": "-"
-        }
-    ],
+    {
+      "7V35O4": "streamer",
+      "PLace": "-"
+    }
+  ],
   "default": [
-        {
-            "default": "Player",
-            "PLace": "-"
-        }
-    ]
+    {
+      "default": "Player",
+      "PLace": "-"
+    }
+  ]
 }
