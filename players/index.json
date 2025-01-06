@@ -1,6 +1,6 @@
 [
   {
-  "#APTQSK": "Owner"
+  "#APTQSK": "Owner, host"
   "PLace": "-"
   }
 ],
@@ -18,13 +18,13 @@
 ],
  [
   {
-  "": "player"
+  "#KF128O": "host"
   "PLace": "-"
   }
 ],
 [
   {
-  "": "player"
+  "#TY1ELD": "streamer"
   "PLace": "-"
   }
 ],
