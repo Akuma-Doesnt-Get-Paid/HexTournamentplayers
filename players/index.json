@@ -1,168 +1,44 @@
-[
-  {
-  "#APTQSK": "Owner, host"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "#Y2OOB2": "Dev, player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "#ES35DX": "Admin, player"
-  "PLace": "-"
-  }
-],
- [
-  {
-  "#KF128O": "host"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "#TY1ELD": "streamer"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],,
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
- [
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-]
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-],
-[
-  {
-  "": "player"
-  "PLace": "-"
-  }
-]
+{
+  "APTQSK": [
+        {
+            "#APTQSK": "Owner, host",
+            "PLace": "-"
+        }
+    ],
+  "Y2OOB2": [
+        {
+            "Y2OOB2": "Dev, player",
+            "PLace": "-"
+        }
+    ],
+  "ES35DX": [
+        {
+            "ES35DX": "Admin, host",
+            "PLace": "-"
+        }
+    ],
+  "KF128O": [
+        {
+            "KF128O": "host",
+            "PLace": "-"
+        }
+    ],
+  "TY1ELD": [
+        {
+            "TY1ELD": "streamer",
+            "PLace": "-"
+        }
+    ],
+  "7V35O4": [
+        {
+            "7V35O4": "streamer",
+            "PLace": "-"
+        }
+    ],
+  "default": [
+        {
+            "default": "Player",
+            "PLace": "-"
+        }
+    ],
+}
